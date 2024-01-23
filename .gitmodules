@@ -1,0 +1,3 @@
+[submodule "All-Angular-tasks/dish-web-app"]
+	path = All-Angular-tasks/dish-web-app
+	url = git@github.com:Tonyrealzy/With-elev8.git
